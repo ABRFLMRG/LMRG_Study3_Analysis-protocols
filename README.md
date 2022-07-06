@@ -4,6 +4,6 @@ This is a global study conducted by the Association of Biomedical Resource Facil
 
 Detailed image analysis protocol are posted in this repository.
 
-Detailed 3D intensity analysis guide can be also watched on Youtube: https://youtu.be/plw7Frg8lUQ
+Detailed 3D intensity analysis guide is also available on Youtube: https://youtu.be/plw7Frg8lUQ
 
 Key Words: rigor, reproducibility, resolution, quality control, point spread function (PSF), Signal to Noise Ratio (SNR), confocal microscopy, fluorescence microscopy, standard, 3D imaging, quantitative imaging
