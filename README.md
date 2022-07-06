@@ -1,8 +1,7 @@
 # LMRG_Study3_analysis-protocols
 
+This is a global study conducted by the Association of Biomedical Resource Facilities (ABRF) Light Microscopy Research Group (LMRG). The goal was to create a 3D biologically relevant standard slide that was affordable and straightforward to prepare. Detailed instrument specific image acquisition protocols and image analysis methods were also developed and listed here. The 3D standard allows a microscopist to evaluate the performance of their microscope as a function of imaging depth (up to 100 µm) in the following areas: (1) Intensity quantification and image signal and noise; and (2) microscope resolution through automated analysis of the point spread function (PSF) quality, both through the 3D volume. The test samples consist of different mixtures of fluorescence microspheres embedded in a 120 µm-thick layer of CyGelTM, a thermo-reversible 3D cell growth media.
+
 Detailed image analysis protocol are posted in this repository.
 
 Detailed 3D intensity analysis guide can be also watched on Youtube: https://youtu.be/plw7Frg8lUQ
-
-
-The third study of the Light Microscopy Research Group (LMRG) is aimed at creating a 3D biologically relevant test slide and imaging protocol to test for: (1) System resolution and distortions in 2D and 3D. (2) The dependence of Intensity quantification and image signal-to-noise of the microscope on imaging depth. (3) The dependence of the microscope sensitivity on imaging depth. The test sample consists of a mixture of fluorescence microspheres imbedded in a 120 um-thick layer of CyGel (BioStatus, UK, Cat# Cy10500) with a refractive index of 1.37 closely matched to biological tissue. A double-sided adhesive 18 mm square spacers with a well (9 mm diameter, 120 um deep) were used for the sample preparation (Electron Microscopy Sciences, Cat# 70327-8s). The mixture of microspheres includes 1 um Orange, 2.5 um Green 20% brightness, 2.5 um Green 100% brightness, 6 um Far Red 36%, 6 um Far Red, 15 um Blue Core/Orange Ring.
